@@ -1,3 +1,4 @@
 .ccls-cache/
 main
 *.o
+test*.txt
